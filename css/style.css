@@ -1,0 +1,31 @@
+.headerlargetext{
+  font-size:1.5em;
+  font-weight: 900;
+
+}
+
+.headersmalltext{
+  font-size:1.7em;
+  font-weight: 300;
+
+}
+
+#services{
+  background-color: #eff3e3;
+}
+
+#about{
+  background-color: green;
+}
+
+hr{
+  border-color:lightgreen;
+  border-width: 6px;
+}
+
+footer{
+  background:green;
+  text-align: center;
+  color: white;
+  padding: 20px;
+}
